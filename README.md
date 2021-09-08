@@ -8,7 +8,19 @@ WeePhys_Task: PsychoPy code for running the WeePhys task. The task was built usi
 
 Group_Maps: Group maps corresponding to the manuscript figures. 
 
-"filename" - This is the unthresholded map for "Figure".
+"filename" -  unthresholded map for Figure 3 and Supplemental Figure 3
 
-"filename" - This is the thresholded map for "Figure".
+"filename" - thresholeded map for Figure 3
+
+"filename" - thresholded map for Figure 4
+
+"filename" - unthresholded map for Figure 5
+
+"filename" - thresholded map for Supplemental Figure 1
+
+"filename" - thresholded map for Supplemental Figure 2 
+
+"filename" - thresholded map for Supplemental Figure 4 - Reward
+
+"filename" - thresholded map for Supplemental Figure 4 - Punishment
 
