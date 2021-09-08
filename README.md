@@ -8,19 +8,26 @@ WeePhys_Task: PsychoPy code for running the WeePhys task. The task was built usi
 
 Group_Maps: Group maps corresponding to the manuscript figures. 
 
-"filename" -  unthresholded map for Figure 3 and Supplemental Figure 3
+"3wayint.nii" -  unthresholded map for Figure 3 and Supplemental Figure 3
 
-"filename" - thresholeded map for Figure 3
+"3wayint_thresh.nii" - thresholeded map for Figure 3
 
-"filename" - thresholded map for Figure 4
+effort_searchlight_thresh.nii - thresholded map for Figure 4
 
-"filename" - unthresholded map for Figure 5
+effort_searchlight.nii - unthresholded map for Figure 5
 
-"filename" - thresholded map for Supplemental Figure 1
+"amp_maineffect_thresh.nii" - thresholded map for Supplemental Figure 1
 
-"filename" - thresholded map for Supplemental Figure 2 
+"amp_maineffect.nii" - unthresholded map for Supplemental Figure 1
 
-"filename" - thresholded map for Supplemental Figure 4 - Reward
+time_maineffect_thresh.nii - thresholded map for Supplemental Figure 2 
 
-"filename" - thresholded map for Supplemental Figure 4 - Punishment
+"time_maineffect.nii" - unthresholded map for Supplemental Figure 2 
 
+pungainloss_thresh.nii - thresholded map for Supplemental Figure 4, Reward
+
+pungainloss.nii - unthresholded map for Supplemental Figure 4, Reward
+
+rewgainloss_thresh.nii - thresholded map for Supplemental Figure 4, Punishment
+
+rewgainloss.nii - unthresholded map for Supplemental Figure 4, Punishment
