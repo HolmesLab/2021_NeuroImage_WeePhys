@@ -10,11 +10,11 @@ Group_Maps: Group maps corresponding to the manuscript figures.
 
 "3wayint.nii" -  unthresholded map for Figure 3 and Supplemental Figure 3
 
-"3wayint_thresh.nii" - thresholeded map for Figure 3
+"3wayint_thresh.nii" - thresholded map for Figure 3
 
 effort_searchlight_thresh.nii - thresholded map for Figure 4
 
-effort_searchlight.nii - unthresholded map for Figure 5
+effort_searchlight.nii - unthresholded map for Figure 5 
 
 "amp_maineffect_thresh.nii" - thresholded map for Supplemental Figure 1
 
