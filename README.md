@@ -26,8 +26,8 @@ time_maineffect_thresh.nii - thresholded map for Supplemental Figure 2
 
 pungainloss_thresh.nii - thresholded map for Supplemental Figure 4, Reward
 
-pungainloss.nii - unthresholded map for Supplemental Figure 4, Reward
+"pungainloss.nii" - unthresholded map for Supplemental Figure 4, Reward
 
 rewgainloss_thresh.nii - thresholded map for Supplemental Figure 4, Punishment
 
-rewgainloss.nii - unthresholded map for Supplemental Figure 4, Punishment
+"rewgainloss.nii" - unthresholded map for Supplemental Figure 4, Punishment
