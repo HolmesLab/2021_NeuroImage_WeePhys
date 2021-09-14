@@ -22,7 +22,7 @@ effort_searchlight.nii - unthresholded map for Figure 5
 
 time_maineffect_thresh.nii - thresholded map for Supplemental Figure 2 
 
-"time_maineffect.nii" - unthresholded map for Supplemental Figure 2 
+time_maineffect.nii - unthresholded map for Supplemental Figure 2 
 
 pungainloss_thresh.nii - thresholded map for Supplemental Figure 4, Reward
 
