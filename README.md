@@ -16,7 +16,7 @@ effort_searchlight_thresh.nii - thresholded map for Figure 4
 
 effort_searchlight.nii - unthresholded map for Figure 5 
 
-"amp_maineffect_thresh.nii" - thresholded map for Supplemental Figure 1
+amp_maineffect_thresh.nii - thresholded map for Supplemental Figure 1
 
 "amp_maineffect.nii" - unthresholded map for Supplemental Figure 1
 
